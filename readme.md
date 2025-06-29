@@ -20,12 +20,12 @@
     <img src="./assets/image-2.png" alt="Image Example" width="400px">
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="technologies">💻 Tecnologias</h2>
 
 - HTML
 - CSS
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started">🚀 Como iniciar</h2>
 
 - Clonar o repositório
 - Rodar com Live Server ou copiar o caminho do arquivo html e colocar na URL do browser 
@@ -37,13 +37,12 @@ Como clonar o projeto
 git clone https://github.com/RobsonLazaro/Pagina-de-Receita.git
 ```
 
-<h3>Starting</h3>
+<h3>Começando</h3>
 
 Como Startar o projeto
 - Rodar com Live Server o ```Index.html```
 
-
-<h2 id="colab">🤝 Collaborators</h2>
+<h2 id="colab">🤝 Colaboradores</h2>
 
 <table>
   <tr>
